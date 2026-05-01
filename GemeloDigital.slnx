@@ -1,0 +1,12 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="GemeloDigital.App/GemeloDigital.App.vcxproj">
+    <Platform Solution="Debug|x64" Project="Win32" />
+  </Project>
+  <Project Path="GemeloDigital.Core/GemeloDigital.Core.vcxproj">
+    <Platform Solution="Debug|x64" Project="Win32" />
+  </Project>
+</Solution>
