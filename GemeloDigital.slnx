@@ -3,6 +3,7 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Project Path="ConsoleApplication1Danny/ConsoleApplication1Danny.vcxproj" />
   <Project Path="GemeloDigital.App/GemeloDigital.App.vcxproj">
     <Platform Solution="Debug|x64" Project="Win32" />
   </Project>
