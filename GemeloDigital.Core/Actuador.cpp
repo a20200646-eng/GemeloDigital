@@ -12,6 +12,4 @@ using namespace System::Collections::Generic;
 
 int Actuador::getId() {
 	return 0;
-	//Mijael 
-	int pelo;
 }
